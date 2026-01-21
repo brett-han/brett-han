@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm <span style="color:#f39c12;">Brett</span>  
-💻 <span style="color:#3498db;">Full Stack PHP & Laravel Developer</span> based in <span style="color:#27ae60;">Melbourne 🇦🇺</span>
+💻 <span style="color:#3498db;">Full Stack PHP & Laravel Developer</span>
 
 Full stack developer specialized in **PHP & Laravel**, with hands-on experience across **backend (Java, Go)** and **frontend (React, Vue, Alpine.js, Livewire, Blade)**.  
 
